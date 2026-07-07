@@ -2,13 +2,13 @@
 <html lang="en" translate="no">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/viewcr/root/assets/icons/fav.svg" />
+    <link rel="icon" type="image/svg+xml" href="/root/assets/icons/fav.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>المركز السعودي للتنافسية والأعمال</title>
-    <script type="module" src="/viewcr/config/root/env.root.js?1772371391979"></script>
-    <script type="module" src="/viewcr/env.js?1772371391979"></script>
-    <script type="module" crossorigin src="/viewcr/assets/index-CzTOOSTm.js"></script>
-    <link rel="stylesheet" crossorigin href="/viewcr/assets/index-QVNIwH8F.css">
+    <script type="module" src="/config/root/env.root.js?1772371391979"></script>
+    <script type="module" src="/env.js?1772371391979"></script>
+    <script type="module" crossorigin src="/assets/index-CzTOOSTm.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-QVNIwH8F.css">
   </head>
 
   <body>
