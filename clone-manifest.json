@@ -1,9 +1,9 @@
 {
-  "targetUrl": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-  "savedAt": "2026-07-07T00:17:00.639Z",
+  "targetUrl": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+  "savedAt": "2026-07-07T00:42:12.371Z",
   "pages": [
     {
-      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "url": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
       "file": "html/viewcr/index_q_nCrNumber-PKE6uWRrNXbCmX6nKtUvwA--.html",
       "depth": 0,
       "linksFound": 0
@@ -11,191 +11,191 @@
   ],
   "networkRequests": [
     {
-      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "url": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
       "method": "GET",
       "type": "document",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:46.584Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:41:55.883Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "url": "./env.root.js?1772371391979",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:48.389Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:41:57.658Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "url": "./env.js?1772371391979",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:48.389Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:41:57.658Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "url": "./index-CzTOOSTm.js",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:48.389Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:41:57.658Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "url": "./index-QVNIwH8F.css",
       "method": "GET",
       "type": "stylesheet",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:48.390Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:41:57.658Z"
     },
     {
-      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "url": "./GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
       "method": "GET",
       "type": "fetch",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.044Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.614Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "url": "./header-web-DisaZgHs.jpg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.044Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.614Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "url": "./new-logo-w-Bsa-bGtT.svg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.045Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.614Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "url": "./sdaiaLogo-DA2sR2Cc.svg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.045Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.614Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "url": "./DINNextLTArabic-Medium-C5X_7zdr.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.142Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.690Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "url": "./DINNextLTArabic-Bold-D6gNGPOf.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.143Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.691Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "url": "./DINNextLTArabic-Regular-DYtxlCll.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:51.145Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:00.691Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "url": "./header-mobile-Bri6g_KO.jpg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:53.947Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.000Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "url": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
       "method": "GET",
       "type": "document",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:53.957Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.008Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "url": "./env.root.js?1772371391979",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.504Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.362Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "url": "./env.js?1772371391979",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.505Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.363Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "url": "./index-CzTOOSTm.js",
       "method": "GET",
       "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.505Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.363Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "url": "./index-QVNIwH8F.css",
       "method": "GET",
       "type": "stylesheet",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.506Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.364Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "url": "./DINNextLTArabic-Regular-DYtxlCll.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.506Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.396Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "url": "./DINNextLTArabic-Medium-C5X_7zdr.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.507Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.397Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "url": "./DINNextLTArabic-Bold-D6gNGPOf.woff2",
       "method": "GET",
       "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.507Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.397Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "url": "./new-logo-w-Bsa-bGtT.svg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.790Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.912Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "url": "./sdaiaLogo-DA2sR2Cc.svg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.793Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.912Z"
     },
     {
-      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "url": "./GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
       "method": "GET",
       "type": "fetch",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.794Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.913Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "url": "./header-mobile-Bri6g_KO.jpg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:16:54.794Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:06.913Z"
     },
     {
-      "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "url": "./header-web-DisaZgHs.jpg",
       "method": "GET",
       "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-07T00:17:00.470Z"
+      "page": "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-07T00:42:12.212Z"
     }
   ],
   "apiEntries": [
     {
-      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "url": "./GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
       "pathname": "/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails",
       "file": "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json",
       "status": 200,
@@ -209,24 +209,24 @@
   ],
   "byteIdentityChecks": [
     {
-      "file": "js/env_q_1772371391979.js",
-      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
-      "ok": true,
-      "bytes": 511,
-      "sourceSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd",
-      "savedSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"
-    },
-    {
       "file": "js/config/root/env.root_q_1772371391979.js",
-      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "url": "./env.root.js?1772371391979",
       "ok": true,
       "bytes": 2116,
       "sourceSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4",
       "savedSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4"
     },
     {
+      "file": "js/env_q_1772371391979.js",
+      "url": "./env.js?1772371391979",
+      "ok": true,
+      "bytes": 511,
+      "sourceSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd",
+      "savedSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd"
+    },
+    {
       "file": "js/assets/index-CzTOOSTm.js",
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "url": "./index-CzTOOSTm.js",
       "ok": true,
       "bytes": 1409140,
       "sourceSha256": "6633e5d6d4bc52de9741a9cc14d2723c97f353e0361adbddbb819e167edd0fc2",
@@ -234,7 +234,7 @@
     },
     {
       "file": "js/config/root/env.root_q_1772371391979.js",
-      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "url": "./env.root.js?1772371391979",
       "ok": true,
       "bytes": 2116,
       "sourceSha256": "db67be2e76a1353b7e7753459ab6a75aba7f0c036a7579bfa5e0d7d948c92cd4",
@@ -242,7 +242,7 @@
     },
     {
       "file": "js/env_q_1772371391979.js",
-      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "url": "./env.js?1772371391979",
       "ok": true,
       "bytes": 511,
       "sourceSha256": "aa157c33c36f4645e4b85a5689c120a8a5a17fee96f78900d2f22dce225d24bd",
@@ -250,7 +250,7 @@
     },
     {
       "file": "js/assets/index-CzTOOSTm.js",
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "url": "./index-CzTOOSTm.js",
       "ok": true,
       "bytes": 1409140,
       "sourceSha256": "6633e5d6d4bc52de9741a9cc14d2723c97f353e0361adbddbb819e167edd0fc2",
@@ -259,75 +259,75 @@
   ],
   "urlMap": [
     [
-      "https://qr.saudibusiness.gov.sa/favicon.ico",
+      "./favicon.ico",
       "assets/favicon.ico"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/robots.txt",
+      "./robots.txt",
       "assets/robots.txt"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/sitemap.xml",
+      "./sitemap.xml",
       "assets/sitemap.xml"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/manifest.json",
+      "./manifest.json",
       "assets/manifest.json"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/site.webmanifest",
+      "./site.webmanifest",
       "assets/site.webmanifest"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "./env.root.js?1772371391979",
       "js/config/root/env.root_q_1772371391979.js"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "./index-QVNIwH8F.css",
       "css/assets/index-QVNIwH8F.css"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "./env.js?1772371391979",
       "js/env_q_1772371391979.js"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "./index-CzTOOSTm.js",
       "js/assets/index-CzTOOSTm.js"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "./new-logo-w-Bsa-bGtT.svg",
       "assets/new-logo-w-Bsa-bGtT.svg"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
+      "./header-web-DisaZgHs.jpg",
       "assets/header-web-DisaZgHs.jpg"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "./sdaiaLogo-DA2sR2Cc.svg",
       "assets/sdaiaLogo-DA2sR2Cc.svg"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "./DINNextLTArabic-Medium-C5X_7zdr.woff2",
       "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "./DINNextLTArabic-Regular-DYtxlCll.woff2",
       "assets/DINNextLTArabic-Regular-DYtxlCll.woff2"
     ],
     [
-      "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "./GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
       "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "./DINNextLTArabic-Bold-D6gNGPOf.woff2",
       "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "./header-mobile-Bri6g_KO.jpg",
       "assets/header-mobile-Bri6g_KO.jpg"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "./viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
       "html/viewcr/index_q_nCrNumber-PKE6uWRrNXbCmX6nKtUvwA--.html"
     ]
   ],

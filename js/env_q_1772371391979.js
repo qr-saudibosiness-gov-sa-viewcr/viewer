@@ -1,6 +1,6 @@
 const app = {
-  api: 'https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl',
-  altchaAPI: 'https://api.saudibusiness.gov.sa/sbc/externalgw/captchaapi',
+  api: './qrapi-nl',
+  altchaAPI: './captchaapi',
   gwClientId: '290644af026afba41b89aefcee65843d',
   cacheTimeInSeconds: 60 * 60,
   siteKey: '6LcO1mobAAAAAJGW3IACIkU8TAtl8SjDYVzeW1Hw',

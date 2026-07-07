@@ -25,7 +25,7 @@ const CLONED_FILES = [
 ];
 const API_CACHE = [
   {
-    "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+    "url": "./GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
     "pathname": "/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails",
     "file": "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json",
     "status": 200,
