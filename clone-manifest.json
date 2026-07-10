@@ -1,6 +1,6 @@
 {
   "targetUrl": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-  "savedAt": "2026-07-10T20:58:27.152Z",
+  "savedAt": "2026-07-10T21:03:37.247Z",
   "pages": [
     {
       "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
@@ -15,185 +15,198 @@
       "method": "GET",
       "type": "document",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:57:42.291Z"
+      "capturedAt": "2026-07-10T21:02:36.894Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
       "method": "GET",
       "type": "script",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:57:44.019Z"
+      "capturedAt": "2026-07-10T21:02:39.282Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
       "method": "GET",
       "type": "script",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:57:44.019Z"
+      "capturedAt": "2026-07-10T21:02:39.282Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
       "method": "GET",
       "type": "script",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:57:44.019Z"
+      "capturedAt": "2026-07-10T21:02:39.283Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
       "method": "GET",
       "type": "stylesheet",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:57:44.019Z"
+      "capturedAt": "2026-07-10T21:02:39.283Z"
     },
     {
       "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
       "method": "GET",
       "type": "fetch",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.593Z"
+      "capturedAt": "2026-07-10T21:03:03.508Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
       "method": "GET",
       "type": "image",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.593Z"
+      "capturedAt": "2026-07-10T21:03:03.508Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
       "method": "GET",
       "type": "image",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.593Z"
+      "capturedAt": "2026-07-10T21:03:03.508Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
       "method": "GET",
       "type": "image",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.593Z"
+      "capturedAt": "2026-07-10T21:03:03.510Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
       "method": "GET",
       "type": "font",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.678Z"
+      "capturedAt": "2026-07-10T21:03:03.564Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
       "method": "GET",
       "type": "font",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.678Z"
+      "capturedAt": "2026-07-10T21:03:03.565Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
       "method": "GET",
       "type": "font",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:04.678Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
-      "method": "GET",
-      "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.017Z"
+      "capturedAt": "2026-07-10T21:03:03.565Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
       "method": "GET",
       "type": "document",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.022Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
-      "method": "GET",
-      "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.537Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
-      "method": "GET",
-      "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.537Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
-      "method": "GET",
-      "type": "script",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.538Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
-      "method": "GET",
-      "type": "stylesheet",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.539Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
-      "method": "GET",
-      "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.574Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
-      "method": "GET",
-      "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.576Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
-      "method": "GET",
-      "type": "font",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.577Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
-      "method": "GET",
-      "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.778Z"
-    },
-    {
-      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
-      "method": "GET",
-      "type": "image",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.780Z"
-    },
-    {
-      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
-      "method": "GET",
-      "type": "fetch",
-      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.781Z"
+      "capturedAt": "2026-07-10T21:03:28.194Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
       "method": "GET",
       "type": "image",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:18.781Z"
+      "capturedAt": "2026-07-10T21:03:28.204Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/config/root/env.root.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.759Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/env.js?1772371391979",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.761Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-CzTOOSTm.js",
+      "method": "GET",
+      "type": "script",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.761Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/index-QVNIwH8F.css",
+      "method": "GET",
+      "type": "stylesheet",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.762Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.791Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.793Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "method": "GET",
+      "type": "font",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:28.793Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:29.004Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/sdaiaLogo-DA2sR2Cc.svg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:29.004Z"
+    },
+    {
+      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "method": "GET",
+      "type": "fetch",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:29.006Z"
+    },
+    {
+      "url": "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
+      "method": "GET",
+      "type": "image",
+      "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
+      "capturedAt": "2026-07-10T21:03:29.006Z"
     },
     {
       "url": "https://qr.saudibusiness.gov.sa/assets/header-web-DisaZgHs.jpg",
       "method": "GET",
       "type": "image",
       "page": "https://qr.saudibusiness.gov.sa/viewcr?nCrNumber=PKE6uWRrNXbCmX6nKtUvwA==",
-      "capturedAt": "2026-07-10T20:58:26.621Z"
+      "capturedAt": "2026-07-10T21:03:36.337Z"
     }
   ],
-  "apiEntries": [],
+  "apiEntries": [
+    {
+      "url": "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "pathname": "/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails",
+      "file": "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json",
+      "status": 200,
+      "contentType": "application/json; charset=utf-8",
+      "headers": {
+        "content-type": "application/json; charset=utf-8"
+      },
+      "body": "{\"data\":{\"crInformation\":{\"isRestricted\":false,\"crNationalNumber\":\"7037074338\",\"crNumber\":\"4030529395\",\"encryptedCrNumber\":\"eE5QN3dBNzZJZDFUYi92cWNGUFlhdz09\",\"ownerNameAr\":null,\"ownerNameEn\":null,\"ownerIdentifierNumber\":null,\"ownerIdentifierTypeNameAr\":null,\"ownerIdentifierTypeNameEn\":null,\"versionNo\":5,\"entityFullNameAr\":\"شركة طرق العمارة المحدودة شخص واحد\",\"entityFullNameEn\":\"turuq alimara Company Ltd. shakhs wahid\",\"capital\":100000,\"companyDuration\":0,\"isMain\":true,\"mainCRNationalNumber\":null,\"mainCRNumber\":null,\"isLicenseBased\":true,\"inLiquidationProcess\":false,\"hasEcommerce\":false,\"isListed\":false,\"entityNameLang\":{\"entityNameLangID\":1,\"entityNameLangDescAr\":\"اللغة العربية\",\"entityNameLangDescEn\":\"Arabic Language\"},\"entityType\":{\"entityTypeID\":1,\"entityTypeDescAr\":\"شركة\",\"entityTypeDescEn\":\"Company\"},\"capitalCurrency\":{\"capitalCurrencyID\":1,\"capitalCurrencyDescAr\":\"ريال سعودي\",\"capitalCurrencyDescEn\":\"Saudi Riyal\"},\"companyForm\":{\"companyFormID\":1,\"companyFormDescriptionAr\":\"ذات مسؤولية محدودة\",\"companyFormDescriptionEn\":\"Limited liability company\"},\"companyCharacterList\":[{\"companyCharacterID\":1,\"companyCharacterDescriptionAr\":\"شخص واحد\",\"companyCharacterDescriptionEn\":\"One person\"}],\"partnersNationality\":{\"partnersNationalityID\":4,\"partnersNationalityDescAr\":\"مختلطة\",\"partnersNationalityDescEn\":\"Mixed\"},\"lastModificationDate\":{\"lastModificationDateGregorian\":\"2026-06-09\",\"lastModificationDateHijri\":\"23-12-1447\"},\"crIssueDate\":{\"crIssueDateGregorian\":\"2023-10-23\",\"crIssueDateHijri\":\"08-04-1445\"},\"crConfirmDate\":{\"crConfirmDateGregorian\":\"2026-09-19\",\"crConfirmDateHijri\":\"08-04-1448\"},\"crStatus\":{\"crStatusID\":1,\"crStatusDescAr\":\"نشط\",\"crStatusDescEn\":\"Active\"},\"crDeleteDate\":null,\"crDeleteReasons\":[]},\"crActivities\":{\"fullActivitiesText\":null,\"activitiesType\":{\"activitiesTypeID\":\"2\",\"activitiesTypeDescriptionAr\":\"Isic\",\"activitiesTypeDescriptionEn\":\"Isic\"},\"activityList\":[{\"activityID\":\"410010\",\"activityDescriptionAr\":\"الإنشاءات العامة للمباني السكنية\",\"activityDescriptionEn\":\"Construction of all types of residential buildings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"410021\",\"activityDescriptionAr\":\"الانشاءات العامة للمباني غير السكنية (مثل المدارس والمستشفيات والفنادق ....الخ)\",\"activityDescriptionEn\":\"General construction of non residential buildings such as schools hospitals hotels etc\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"410023\",\"activityDescriptionAr\":\"الإنشاءات العامة للمباني الحكومية\",\"activityDescriptionEn\":\"General constructions of government buildings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"410030\",\"activityDescriptionAr\":\"إنشاءات المباني الجاهزة في المواقع\",\"activityDescriptionEn\":\"Erection of prefabricated constructions on the site\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"410040\",\"activityDescriptionAr\":\"ترميمات المباني السكنية والغير سكنية\",\"activityDescriptionEn\":\"remodeling or renovating existing residential and non residential structures\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"421010\",\"activityDescriptionAr\":\"إنشاء الطرق والشوارع والارصفة ومستلزمات الطرق\",\"activityDescriptionEn\":\"Construction of motorways, streets, roads, other vehicular and pedestrian ways\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"421020\",\"activityDescriptionAr\":\"إنشاء الجسور والانفاق\",\"activityDescriptionEn\":\"Construction of bridges or tunnels\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"421051\",\"activityDescriptionAr\":\"إصلاح وصيانة الطرق والشوارع والأرصفة ومستلزمات الطرق\",\"activityDescriptionEn\":\"Repair and maintenance of motorways, streets, roads, other vehicular and pedestrian ways\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"421052\",\"activityDescriptionAr\":\"إصلاح وصيانة الجسور والأنفاق\",\"activityDescriptionEn\":\"Repair and maintenance of bridges or tunnels\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422010\",\"activityDescriptionAr\":\"تمديد الانابيب باختلاف انواعها للكهرباء والاتصالات وغيرها\",\"activityDescriptionEn\":\"Long-distance pipelines, communication and power lines\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422020\",\"activityDescriptionAr\":\"تمديد انابيب النفط والغاز\",\"activityDescriptionEn\":\"Long-distance oil and gas pipelines\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422031\",\"activityDescriptionAr\":\"تمديدات خطوط المياه بين المدن وداخلها وإنشاء شبكات جديدة\",\"activityDescriptionEn\":\"Transfer of non-hazardous industrial waste\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422032\",\"activityDescriptionAr\":\"إنشاء المحطات والخطوط الرئيسية لتوزيع المياه\",\"activityDescriptionEn\":\"142\\t422032\\tإنشاء واصلاح المحطات والخطوط الرئيسية لتوزيع المياه\\tConstruction of main lines and stations of water distribution\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422033\",\"activityDescriptionAr\":\"إصلاح وصيانة المحطات والشبكات والخطوط الرئيسية لتوزيع المياه\",\"activityDescriptionEn\":\"Repair and maintenance of water distribution stations, networks and main lines\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422041\",\"activityDescriptionAr\":\"إنشاء قنوات الري والسقي وأبراج تخزين المياه الرئيسية\",\"activityDescriptionEn\":\"Construction of irrigation systems (canals), water main storage towers\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422042\",\"activityDescriptionAr\":\"حفر آبار المياه الأنبوبية\",\"activityDescriptionEn\":\"Drilling of tubular water wells\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422043\",\"activityDescriptionAr\":\"حفر آبار المياه اليدوية\",\"activityDescriptionEn\":\"Drilling of manual water wells\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422044\",\"activityDescriptionAr\":\"إصلاح وصيانة قنوات الري والسقي وأبراج تخزين المياه الرئيسية\",\"activityDescriptionEn\":\"Repair and maintenance of irrigation systems (canals), water main storage towers\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422045\",\"activityDescriptionAr\":\"إصلاح وصيانة محطات ومشاريع الصرف الصحي وشبكات المجاري والمضخات\",\"activityDescriptionEn\":\"Repair and maintenance of sewer systems, sewage disposal plants and pumping station\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422046\",\"activityDescriptionAr\":\"إصلاح وصيانة محطات الطاقة الكهربائية والمحولات\",\"activityDescriptionEn\":\"Repair and maintenance of power plants\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422047\",\"activityDescriptionAr\":\"إصلاح وصيانة محطات وأبراج الاتصالات السلكية واللاسلكية والرادار\",\"activityDescriptionEn\":\"Repair and maintenance of wired and wireless communication stations and radars\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422050\",\"activityDescriptionAr\":\"إنشاء محطات ومشاريع الصرف الصحي وشبكات المجاري والمضخات\",\"activityDescriptionEn\":\"Construction of sewer systems, sewage disposal plants and pumping stations\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422060\",\"activityDescriptionAr\":\"إنشاء وإقامة محطات الطاقة الكهربائية والمحولات\",\"activityDescriptionEn\":\"Construction and establishment of electrical power stations and transformers\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"422070\",\"activityDescriptionAr\":\"إنشاء وإقامة محطات وأبراج الاتصالات السلكية واللاسلكية والرادار\",\"activityDescriptionEn\":\"Construction and establishment of telecommunications and radar stations and towers\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429010\",\"activityDescriptionAr\":\"إنشاء محطات التكرير والبتروكيماويات والمصافي\",\"activityDescriptionEn\":\"Construction of refineries and petrochemical plants\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429020\",\"activityDescriptionAr\":\"إنشاء أرصفة الموانئ والمرافق البحرية\",\"activityDescriptionEn\":\"Construction of harbor and river works\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429030\",\"activityDescriptionAr\":\"إنشاء المواني والمراسي السياحية (المارينا)\",\"activityDescriptionEn\":\"Construction of pleasure ports (marinas)\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429040\",\"activityDescriptionAr\":\"إنشاء السدود\",\"activityDescriptionEn\":\"Construction of dams\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429050\",\"activityDescriptionAr\":\"تنظيف الممرات المائية\",\"activityDescriptionEn\":\"Dredging of waterways\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429060\",\"activityDescriptionAr\":\"إنشاء كاسرات الأمواج والحماية للأرصفة\",\"activityDescriptionEn\":\"Construction of dykes\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429071\",\"activityDescriptionAr\":\"الانشاءات العامة الرياضية وتشمل الملاعب\",\"activityDescriptionEn\":\"Public sports structures including play grounds\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429072\",\"activityDescriptionAr\":\"أعمال تشييد الميادين العسكرية\",\"activityDescriptionEn\":\"Construction of military fields\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429073\",\"activityDescriptionAr\":\"إصلاح وصيانة السدود\",\"activityDescriptionEn\":\"Repair and maintenance of dams\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"429074\",\"activityDescriptionAr\":\"إصلاح وصيانة أرصفة الموانئ والمرافق البحرية\",\"activityDescriptionEn\":\"Repair and maintenance of port piers and marine facilities\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"431101\",\"activityDescriptionAr\":\"هدم وإزالة المباني وغيرها\",\"activityDescriptionEn\":\"Demolition or wrecking of buildings and other structures\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"431210\",\"activityDescriptionAr\":\"اعداد وتجهيز المواقع من الحفر والتسوية\",\"activityDescriptionEn\":\"Drilling and earth moving for site preparation purposes\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"431220\",\"activityDescriptionAr\":\"صب القواعد والاساسات\",\"activityDescriptionEn\":\"Landfill\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"431230\",\"activityDescriptionAr\":\"سحب المياه الجوفية وتجفيف المواقع\",\"activityDescriptionEn\":\"Building site drainage\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"431240\",\"activityDescriptionAr\":\"القطع الصخري باستخدام المواد المتفجرة\",\"activityDescriptionEn\":\"Rock cutting by using explosive materials\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432111\",\"activityDescriptionAr\":\"تمديد الاسلاك الكهربائية\",\"activityDescriptionEn\":\"Electrical wiring\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432112\",\"activityDescriptionAr\":\"تمديد  اسلاك الاتصالات\",\"activityDescriptionEn\":\"Telecommunications wiring\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432113\",\"activityDescriptionAr\":\"تمديدات  الشبكات\",\"activityDescriptionEn\":\"Network wiring\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432121\",\"activityDescriptionAr\":\"تركيب وتمديد شبكات التلفزيون والستلايت\",\"activityDescriptionEn\":\"Installation of satellite dishes\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432122\",\"activityDescriptionAr\":\"تركيب وتمديد شبكات الكمبيوتر والاتصالات\",\"activityDescriptionEn\":\"Installation of computer network and cable television wiring\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432131\",\"activityDescriptionAr\":\"تركيب انظمة الاضاءة\",\"activityDescriptionEn\":\"Installation of lighting systems\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432132\",\"activityDescriptionAr\":\"تركيب وصيانة أجهزة ومعدات الإنذار من الحريق\",\"activityDescriptionEn\":\"Installation and maintenance of fire alarms devices and equipment\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432134\",\"activityDescriptionAr\":\"تركيب وصيانة الأجهزة الأمنية\",\"activityDescriptionEn\":\"Installation and maintenance of safety devices\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432135\",\"activityDescriptionAr\":\"تركيب وصيانة أجهزة السلامة المرورية\",\"activityDescriptionEn\":\"Installation and maintenance of traffic safety devices\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432210\",\"activityDescriptionAr\":\"تركيب انظمة التدفئة بالكهرباء اوالغاز اوالزيت وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of heating systems (electric, gas and oil)\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432220\",\"activityDescriptionAr\":\"تركيب شبكات الطاقة الشمسية وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of solar energy collectors\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432230\",\"activityDescriptionAr\":\"تركيب الادوات الصحية وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation maintenance and repair of plumbing and sanitary equipment\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432240\",\"activityDescriptionAr\":\"تركيب انظمة التبريد وتكييف الهواء وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of refrigeration or air-conditioning equipment\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432251\",\"activityDescriptionAr\":\"تمديدات انابيب الغاز وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of gas fittings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432252\",\"activityDescriptionAr\":\"تمديدات انابيب البخار وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of steam piping\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432253\",\"activityDescriptionAr\":\"تمديدات انابيب الحريق وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of fire sprinkler systems\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432254\",\"activityDescriptionAr\":\"تمديدات انابيب الري وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation, maintenance and repair of lawn sprinkler systems\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432260\",\"activityDescriptionAr\":\"تركيب وتمديد انابيب تكييف الهواء وصيانتها واصلاحها\",\"activityDescriptionEn\":\"Installation maintenance and repair of air conditioning ducts\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432911\",\"activityDescriptionAr\":\"تركيب وصيانة المصاعد\",\"activityDescriptionEn\":\"Installation and maintenance of elevators\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432912\",\"activityDescriptionAr\":\"تركيب وإصلاح وصيانة السلالم المتحركة والسيور الناقلة و الارضية\",\"activityDescriptionEn\":\"Installation, repair and maintenance of escalators, conveyor and ground belts\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432920\",\"activityDescriptionAr\":\"تركيب وإصلاح وصيانة الابواب الاوتوماتيكية\",\"activityDescriptionEn\":\"Installation, repair and maintenance of automated and revolving doors\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432930\",\"activityDescriptionAr\":\"تركيب وإصلاح وصيانة مانعه الصواعق\",\"activityDescriptionEn\":\"Installation, repair and maintenance of lightning conductors\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432940\",\"activityDescriptionAr\":\"تركيب وإصلاح وصيانة انظمة التنظيف المركزية\",\"activityDescriptionEn\":\"Installation, repair and maintenance of vacuum cleaning systems\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432950\",\"activityDescriptionAr\":\"تركيب وإصلاح وصيانة أنظمة العوازل الحرارية والمائية\",\"activityDescriptionEn\":\"Installation, repair and maintenance of thermal, sound or vibration insulation\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432961\",\"activityDescriptionAr\":\"تركيب وصيانة أجهزة الحماية المدنية من الأليات والمعدات الثقيلة الخاصة للتدخل في حوادث انهيارات المباني والزلازل ومعدات ووسائل الوقاية الفردية\",\"activityDescriptionEn\":\"Installation and repair of civil protection devices such as heavy equipment used to control earth quicks and buildings collapse and ways of individual\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432962\",\"activityDescriptionAr\":\"تركيب وصيانة صافرات الإنذار المبكر ومراكز التحكم بها\",\"activityDescriptionEn\":\"Installation and maintenance of early warning sirens and control centres\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432963\",\"activityDescriptionAr\":\"تركيب وصيانة أجهزة ومعدات الإطفاء\",\"activityDescriptionEn\":\"Installation and maintenance of fire equipment\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"432972\",\"activityDescriptionAr\":\"تركيب وصيانة أنظمة الرفوف والتخزين\",\"activityDescriptionEn\":\"Installing and Maintaining Storage and shelves Solutions\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433010\",\"activityDescriptionAr\":\"تشطيب المباني\",\"activityDescriptionEn\":\"Building finishing\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433021\",\"activityDescriptionAr\":\"تركيب الابواب والشبابيك وإطارات الابواب  الشرشوب  والدربزينات والسلالم والمطابخ  الخشبية\",\"activityDescriptionEn\":\"Installation of doors (except automated and revolving), windows, door and window frames, fitted kitchens, staircases of wood\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433022\",\"activityDescriptionAr\":\"تركيب الابواب والشبابيك وإطارات الابواب  الشرشوب  والدربزينات والسلالم والمطابخ الالمونيوم\",\"activityDescriptionEn\":\"Installation of doors (except automated and revolving), windows, door and window frames, fitted kitchens, staircases of aluminum\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433023\",\"activityDescriptionAr\":\"تركيب الابواب والشبابيك وإطارات الابواب  الشرشوب  والدربزينات والسلالم والمطابخ  المعدنية\",\"activityDescriptionEn\":\"Installation of doors (except automated and revolving), windows, door and window frames, fitted kitchens, staircases of steel\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433024\",\"activityDescriptionAr\":\"تركيب المظلات والسواتر\",\"activityDescriptionEn\":\"Installation of umbrellas and a fences\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433030\",\"activityDescriptionAr\":\"تركيب الاسقف الداخلية والحواجز وتلبيس الجدران بالأخشاب\",\"activityDescriptionEn\":\"Interior completion such as ceilings, wooden wall coverings, movable partitions, etc.\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433041\",\"activityDescriptionAr\":\"تركيب السيراميك والكاشي\",\"activityDescriptionEn\":\"Installation of ceramic\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433042\",\"activityDescriptionAr\":\"تركيب الرخام\",\"activityDescriptionEn\":\"Installation of marble\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433043\",\"activityDescriptionAr\":\"تركيب الحجر\",\"activityDescriptionEn\":\"Installation of cut stone tiles\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433044\",\"activityDescriptionAr\":\"تركيب القرميد\",\"activityDescriptionEn\":\"Installation of granite\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433045\",\"activityDescriptionAr\":\"جلي وتلميع البلاط والرخام\",\"activityDescriptionEn\":\"Clean and polish tiles and marble\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433051\",\"activityDescriptionAr\":\"تغطية الارضيات خشب الباركيه\",\"activityDescriptionEn\":\"Parquet and other wooden floor coverings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433052\",\"activityDescriptionAr\":\"تغطية الارضيات بالمطاط والمشمع والبلاستيك\",\"activityDescriptionEn\":\"Carpets and linoleum floor coverings, including of rubber or plastic\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433061\",\"activityDescriptionAr\":\"أعمال وتركيب الديكورات المختلفة\",\"activityDescriptionEn\":\"Works and installation of various decorations\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433062\",\"activityDescriptionAr\":\"أعمال التزيين ولصق  ورق الحائط\",\"activityDescriptionEn\":\"Installation of wallpaper\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433071\",\"activityDescriptionAr\":\"أعمال التجصيص والمساح\",\"activityDescriptionEn\":\"Works of plaster or stucco\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433072\",\"activityDescriptionAr\":\"أعمال الدهانات والطلاء للمباني الداخلية والخارجية\",\"activityDescriptionEn\":\"Interior and exterior painting of buildings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433073\",\"activityDescriptionAr\":\"أعمال الدهانات والطلاء  لهياكل الهندسة الحديثة\",\"activityDescriptionEn\":\"Painting of civil engineering structures\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433081\",\"activityDescriptionAr\":\"تركيب الزجاج والمرايا للمباني\",\"activityDescriptionEn\":\"Installation of glass, mirrors of buildings\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433082\",\"activityDescriptionAr\":\"تركيب زجاج واجهات الابراج\",\"activityDescriptionEn\":\"Exterior glass installation of towers\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433091\",\"activityDescriptionAr\":\"تنظيف المباني الجديدة بعد الإنشاء\",\"activityDescriptionEn\":\"Cleaning of new buildings after construction\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433092\",\"activityDescriptionAr\":\"التركيبات الداخلية للمحلات والمباني المتحركة والقوارب\",\"activityDescriptionEn\":\"Interior installation of shops, mobile homes, boats etc.\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"433093\",\"activityDescriptionAr\":\"تركيب الأثاث\",\"activityDescriptionEn\":\"Installation of furniture\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439011\",\"activityDescriptionAr\":\"أعمال تركيب الطابوق\",\"activityDescriptionEn\":\"Bricklaying\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439012\",\"activityDescriptionAr\":\"أعمال تركيب الصخور\",\"activityDescriptionEn\":\"Stone setting\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439020\",\"activityDescriptionAr\":\"أعمال تركيب السقالات\",\"activityDescriptionEn\":\"Scaffolds erecting\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439030\",\"activityDescriptionAr\":\"إنشاء حمامات السباحة\",\"activityDescriptionEn\":\"Construction of outdoor swimming pools\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439040\",\"activityDescriptionAr\":\"تنظيف المباني بالبخار وتسخين الرمل\",\"activityDescriptionEn\":\"Steam cleaning, sand blasting and similar activities for building exteriors\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439050\",\"activityDescriptionAr\":\"تأجير معدات التشييد والبناء مع مشغل\",\"activityDescriptionEn\":\"Renting of construction machinery and equipment with operator\\n\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"439061\",\"activityDescriptionAr\":\"تركيب وصيانة الوحدات المسبقة الشد لإجهادات الخرسانة\",\"activityDescriptionEn\":\"Installation and maintenance of pre-stressed concrete units\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"791101\",\"activityDescriptionAr\":\"وكالة السفر والسياحة\",\"activityDescriptionEn\":\"Activities of travel and tourism agencies\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":true},{\"activityID\":\"791102\",\"activityDescriptionAr\":\"أنشطة وكالات شركات الطيران\",\"activityDescriptionEn\":\"Activities of airline agencies\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"791223\",\"activityDescriptionAr\":\"تنظيم رحلات سياحية\",\"activityDescriptionEn\":\"Organize international tours\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"799013\",\"activityDescriptionAr\":\"مبيعات تذاكر السفر البحرية\",\"activityDescriptionEn\":\"Activities of selling tickets to travel by sea\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"799014\",\"activityDescriptionAr\":\"حجز وحدات الضيافة\",\"activityDescriptionEn\":\"Reservation of guest units\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"799020\",\"activityDescriptionAr\":\"أنشطة الحجز وبيع التذاكر للأحداث الرياضية والترفيهية والمعارض والمؤتمرات\",\"activityDescriptionEn\":\"Ticket sales of entertainment events\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false},{\"activityID\":\"799032\",\"activityDescriptionAr\":\"أنشطة المرشدين السياحيين\",\"activityDescriptionEn\":\"activities of tourist guides\",\"isPreLicenseIssued\":false,\"isPostLicenseIssued\":false}]},\"entityAddress\":{\"addressType\":{\"addressTypeID\":\"1\",\"addressTypeDescriptionAr\":\"عنوان وطني\",\"addressTypeDescriptionEn\":\"National Address\"},\"nationalAddress\":{\"city\":{\"cityId\":\"18\",\"cityNameAr\":\"جدة\",\"cityNameEn\":\"JEDDAH\"},\"district\":{\"districtId\":\"10200018037\",\"districtNameAr\":\"حي الشرفية\",\"districtNameEn\":\"Ash Sharafiyah Dist.\"},\"streetNameAr\":\"خالد ابن الوليد\",\"streetNameEn\":\"Khalid Ibn Al Waleed\",\"buildingNo\":\"7953\",\"unitNo\":\"2\",\"postalCode\":\"22234\",\"additionalNo\":\"4959\"},\"fullAddress\":null},\"capitalDetails\":{\"contributionCapitalDetails\":{\"capitalType\":{\"capitalTypeID\":1,\"capitalTypeDescriptionAr\":\"نقدي\",\"capitalTypeDescriptionEn\":\"Cash\"},\"cashCapital\":100000,\"inkindCapital\":0,\"totalCashContribution\":100,\"totalInkindContribution\":0,\"contributionValue\":1000},\"stockCapitalDetails\":null,\"stockList\":[]},\"contactInformation\":{\"phoneNo\":\"0100000000\",\"mobileNo\":\"00966500304444\",\"email\":\"abdullah-mdest@hotmail.com\",\"websiteURL\":null},\"mangmentInformation\":{\"managementStructure\":{\"managementStructureID\":1,\"managementStructureDescriptionAr\":\"مدير\",\"managementStructureDescriptionEn\":\"Manger\"},\"managerList\":[{\"managerRef\":\"-\",\"identifierTypeId\":2,\"identifierNumber\":\"-\",\"nationalityId\":121,\"isLicensed\":false,\"managerType\":{\"managerTypeID\":4,\"managerTypeDescriptionAr\":\"مقيم\",\"managerTypeDescriptionEn\":\"Resident\"},\"personInfo\":{\"identifierNo\":\"-\",\"titleAr\":null,\"titleEn\":null,\"firstNameAr\":\"عبدالله\",\"fatherNameAr\":\"موسى\",\"grandFatherNameAr\":\"درويش\",\"familyNameAr\":\"الجاروشه\",\"firstNameEn\":\"ABDULLAH\",\"fatherNameEn\":\"MOUSA\",\"grandFatherNameEn\":\"D\",\"familyNameEn\":\"ALJARUSHAH\",\"identifierType\":{\"identifierTypeID\":2,\"identifierTypeDescAr\":\"هوية مقيم\",\"identifierTypeDescEn\":\"Resident ID\"},\"nationality\":{\"nationalityID\":121,\"nationalityDescriptionAr\":\"فلسطيني بوثيقة مصرية\",\"nationalityDescriptionEn\":\"Palestinian Egyptian\",\"isSaudi\":false,\"isGulf\":false}},\"managerPositionList\":[]}]},\"liquidatorList\":[]},\"error\":null}",
+      "encoding": "utf8"
+    }
+  ],
   "byteIdentityChecks": [
     {
       "file": "js/config/root/env.root_q_1772371391979-index.js",
@@ -246,7 +259,7 @@
   ],
   "verification": {
     "ok": true,
-    "checkedAt": "2026-07-10T20:58:27.151Z",
+    "checkedAt": "2026-07-10T21:03:37.246Z",
     "missing": []
   },
   "urlMap": [
@@ -279,16 +292,20 @@
       "assets/DINNextLTArabic-Regular-DYtxlCll.woff2"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
-      "assets/new-logo-w-Bsa-bGtT.svg"
+      "https://api.saudibusiness.gov.sa/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails?mcEncryptedCrNumber=PKE6uWRrNXbCmX6nKtUvwA%3D%3D",
+      "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json"
+    ],
+    [
+      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
+      "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2"
     ],
     [
       "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
       "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2"
     ],
     [
-      "https://qr.saudibusiness.gov.sa/assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
-      "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2"
+      "https://qr.saudibusiness.gov.sa/assets/new-logo-w-Bsa-bGtT.svg",
+      "assets/new-logo-w-Bsa-bGtT.svg"
     ],
     [
       "https://qr.saudibusiness.gov.sa/assets/header-mobile-Bri6g_KO.jpg",
@@ -305,6 +322,7 @@
   ],
   "files": [
     "-nCrNumber-PKE6uWRrNXbCmX6nKtUvwA-/index.html",
+    "api/sbc/externalgw/qrapi-nl/api/app/Qr/GetCrDetails_q_mcEncryptedCrNumber-PKE6uWRrNXbCmX6nKtUvwA.json",
     "assets/DINNextLTArabic-Bold-D6gNGPOf.woff2",
     "assets/DINNextLTArabic-Medium-C5X_7zdr.woff2",
     "assets/DINNextLTArabic-Regular-DYtxlCll.woff2",
