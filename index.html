@@ -14,14 +14,14 @@
 })();
 </script><script>
 (function () {
-  var assetRoot = /^/(?:assets|css|js|images|fonts|media)(?:/|$)/;
+  var assetRoot = /^\/(?:assets|css|js|images|fonts|media)(?:\/|$)/;
   function resolve(value) {
     if (typeof value !== 'string' || !assetRoot.test(value)) return value;
     return (window.__CLONED_DEPLOYMENT_BASE__ || '') + value;
   }
   function resolveCss(value) {
     return typeof value === 'string'
-      ? value.replace(/url((['"]?)/(assets|css|js|images|fonts|media)//gi, function (_, quote, folder) {
+      ? value.replace(/url\((['"]?)\/(assets|css|js|images|fonts|media)\//gi, function (_, quote, folder) {
           return 'url(' + quote + (window.__CLONED_DEPLOYMENT_BASE__ || '') + '/' + folder + '/';
         })
       : value;
